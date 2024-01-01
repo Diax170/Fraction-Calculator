@@ -1,6 +1,5 @@
 # Fraction Calculator
-A fraction caclulator, made in Python.
-Can:
+A fraction caclulator, made in Python. It can:
 - Forward fractions
 - Extract wholes
 - Convert fractions to improper
