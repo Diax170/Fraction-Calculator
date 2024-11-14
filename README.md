@@ -9,7 +9,7 @@ A fraction caclulator, made in Python. It can:
 There is also an eval calculator included.
 
 # Setup
-You can run the executable for Windows (releases) or open main.py if you have installed Python 3.
+You can run the executable for Windows (releases) or open main.pyw if you have installed Python 3.
 
 # Bundling a new executable
 Feel free to use my code, but mention that I made the original.
